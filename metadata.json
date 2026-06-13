@@ -1,0 +1,6 @@
+{
+  "name": "KPI Technical Support Mac USA One",
+  "description": "An interactive technical support KPI and technician performance tracker that imports ticket exports from Excel, calculates KPI metrics, ranks technicians, and visualizes trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
